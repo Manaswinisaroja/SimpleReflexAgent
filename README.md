@@ -50,7 +50,8 @@ A warehouse robot that decides whether to pick up a box or move forward.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/reflex-agents.git
+   git clone https://github.com/Manaswinisaroja/SimpleReflexAgent
    cd reflex-agents
 2.Run any Python file:
+   ```bash
    python SimpleReflexAgent.py
